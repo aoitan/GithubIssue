@@ -4,14 +4,14 @@
     <!-- 共通 -->
     <string name="app_name">GithubIssue</string>
     <string name="menu_settings">Settings</string>
-
+    
     <!-- MainActivity -->
     <string name="logo_string">SepSoft</string>
-
+    
     <!-- PostActivity -->
-    <string name="post_title_label">Title</string>
-    <string name="post_body_label">Comment</string>
-    <string name="post_submit_button_label">Submit new issue</string>
-    <string name="post_clear_button_label">Clear</string>
-
+    <string name="post_title_label">タイトル</string>
+    <string name="post_body_label">コメント</string>
+    <string name="post_submit_button_label">新しいissueを作成する</string>
+    <string name="post_clear_button_label">クリア</string>
+    
 </resources>

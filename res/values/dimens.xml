@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="content_padding_size">10dp</dimen>
+    <dimen name="spacer_padding_size">5dp</dimen>
+    <dimen name="parts_padding_size">5dp</dimen>
+
+</resources>
